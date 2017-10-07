@@ -3,7 +3,7 @@ JS Responsive Navigation
 
 > Creating a custom responsive navigation with CSS & JavaScript.
 
-Read the post [here](https://www.codementor.io/lautiamkok/) about this repository.
+Read the post [here](https://www.codementor.io/lautiamkok/js-tips-creating-your-own-custom-responsive-navigation-with-css-jquery-cnflism82) about this repository.
 
 Quick start
 =============
@@ -19,4 +19,4 @@ $ gulp watch
 $ gulp build
 ```
 
-Access index.html or index.min.html on your browser.
+Access `index.html` or `index.min.html` on your browser.

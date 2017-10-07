@@ -22,7 +22,7 @@ DocReady(() => {
 
   // Creates a new instance of DropdownMenu.
   // https://foundation.zurb.com/sites/docs/dropdown-menu.html#js-class
-  var elem = new Foundation.DropdownMenu(menuDropdown, {});
+  var elem = new Foundation.DropdownMenu(menuDropdown, {})
 
   // Creates a new instance of an accordion menu.
   // https://foundation.zurb.com/sites/docs/accordion-menu.html#js-class
@@ -30,16 +30,16 @@ DocReady(() => {
 
   // Overlay menu.
   var navOverlay = $('.nav-overlay')
-  var buttonLaunch = $(".button-launch-overlay-menu")
-  var buttonExit = $(".button-exit-overlay-menu")
+  var buttonLaunch = $('.button-launch-overlay-menu')
+  var buttonExit = $('.button-exit-overlay-menu')
 
-  buttonLaunch.on("click", function(){
-    navOverlay.addClass("is-open")
+  buttonLaunch.on('click', function () {
+    navOverlay.addClass('is-open')
     return false
   })
 
-  buttonExit.on("click", function(){
-    navOverlay.removeClass("is-open")
+  buttonExit.on('click', function () {
+    navOverlay.removeClass('is-open')
     return false
   })
 
