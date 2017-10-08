@@ -5,6 +5,8 @@ JS Responsive Navigation
 
 Read the post [here](https://www.codementor.io/lautiamkok/js-tips-creating-your-own-custom-responsive-navigation-with-css-jquery-cnflism82) about this repository.
 
+Hosted at [https://lautiamkok.github.io/js-responsive-navigation/](https://lautiamkok.github.io/js-responsive-navigation/)
+
 Quick start
 =============
 
