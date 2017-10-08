@@ -22,11 +22,11 @@ DocReady(() => {
 
   // Creates a new instance of DropdownMenu.
   // https://foundation.zurb.com/sites/docs/dropdown-menu.html#js-class
-  var elem = new Foundation.DropdownMenu(menuDropdown, {})
+  var elemDropdown = new Foundation.DropdownMenu(menuDropdown, {})
 
   // Creates a new instance of an accordion menu.
   // https://foundation.zurb.com/sites/docs/accordion-menu.html#js-class
-  var elem = new Foundation.AccordionMenu(menuAccordion, {})
+  var elemAccordion = new Foundation.AccordionMenu(menuAccordion, {})
 
   // Overlay menu.
   var navOverlay = $('.nav-overlay')
